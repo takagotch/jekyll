@@ -36,10 +36,7 @@ jekyll build
 jekyll build --source _source --destination _deploy
 
 
-
-
-
-
+https://github.com/takagotch/jekyll/tree/master/jekyll_ex
 
 ```
 
