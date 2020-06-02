@@ -9,6 +9,10 @@ https://github.com/jekyll/jekyll
 https://jekylltips-ja.github.io/templates/
 https://jekyllrb-ja.github.io/docs/structure/
 
+https://help.github.com/ja/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+
+
+
 ```
 gem install jekyll
 jekyll new app
