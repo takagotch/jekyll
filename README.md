@@ -6,6 +6,9 @@ https://jekyllrb-ja.github.io/
 
 https://github.com/jekyll/jekyll
 
+https://jekylltips-ja.github.io/templates/
+https://jekyllrb-ja.github.io/docs/structure/
+
 ```
 gem install jekyll
 jekyll new app
