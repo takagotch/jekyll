@@ -11,7 +11,7 @@ https://jekyllrb-ja.github.io/docs/structure/
 
 https://help.github.com/ja/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
 
-
+https://help.github.com/ja/github/working-with-github-pages/about-jekyll-build-errors-for-github-pages-sites
 
 ```
 gem install jekyll
